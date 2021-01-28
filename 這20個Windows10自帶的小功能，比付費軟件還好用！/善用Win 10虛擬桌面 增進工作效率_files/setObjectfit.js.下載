@@ -1,0 +1,22 @@
+﻿/* 如果瀏覽器不支援 object-fit 的話執行這邊 */
+if (!Modernizr.objectfit) {
+    // 以下是處理的部分
+    $('.has-objectfit').each(function () {
+        //object-fit
+        var $container = $(this);
+        var imgCover = $container.find('img.fit-cover').prop('src');
+        setBackgroundImg($container, imgCover, 'no-fit-cover');
+        //object-contain
+        var imgContain = $container.find('img.fit-contain').prop('src');
+        setBackgroundImg($container, imgContain, 'no-fit-contain');
+    });
+}
+// 核心處理的函式
+function setBackgroundImg($container, $imgUrl, $class) {
+    if ($imgUrl && $imgUrl.length > 0) {
+        $container.css('backgroundImage', 'url(' + $imgUrl + ')').addClass($class);;
+    }
+}
+
+
+

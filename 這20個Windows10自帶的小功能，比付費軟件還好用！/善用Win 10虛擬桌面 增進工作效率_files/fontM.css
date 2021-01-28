@@ -1,0 +1,35 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*---------------------------------font size setting*/
+.fontSet #small{color:unset;background-color:unset}
+.fontSet #medium{color:#fff;background-color:#2abae1}
+.fontSet #large{color:unset;background-color:unset}
+
+
+/*body { font-size: 1em; }
+.fontSet { width: 140px; }
+.Search{position:relative;top:-5px}
+.hotsearch .HotKeywords ul li { display: inline-block; width: 23.7%; margin: 0 5px 5px 0; }
+.hotsearch .HotKeywords a {  padding: 10px 5px; height: 40px }
+.Search .navbar-form .input-group .form-control { width: 380px; }
+.Search .AdvSearch { width: 60px; }
+.Search .AdvSearch-e { width: 100px; }
+.sear_input .text-ipt{width:60%}
+.condition-search-blk .keyword-adj .btn-show-adv{width:120px}
+
+
+@media (min-width:1200px) {
+    .Search .navbar-form .input-group .form-control { width: 450px; }
+}
+
+ @media (min-width: 768px) and (max-width: 1199px) {
+.hotsearch .navbar-form .input-group .form-control { width: 295px; margin: 0 0 0 3px }
+.hotsearch .HotKeywords ul { margin: 0 5px 0 8px }
+.hotsearch .HotKeywords ul li { display: inline-block; width: 48.4%; margin: 0 5px 8px 0; }
+.hotsearch .HotKeywords ul li:nth-child(2n) { margin: 0 0 8px 0 }
+}
+.fb ul li {  padding: 6px 0 6px 80px; }
+.fb ul li a{overflow:hidden;white-space:nowrap; text-overflow:ellipsis; padding:0px 0 20px; display: block }
+
+.bulletin .options li>div.contents>ul>li { margin: 0 0 25px 0; padding:0 0 0 105px; }
+.bulletin .options li>div.contents>ul>li span {  margin:0 15px 0 -94px; }*/

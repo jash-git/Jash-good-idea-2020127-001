@@ -1,0 +1,16 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*---------------------------------font size setting*/
+body { font-size: 0.8em; }
+.fontSet #small{color:#fff;background-color:#2abae1}
+.fontSet #medium{color:unset;background-color:unset}
+.fontSet #large{color:unset;background-color:unset}
+/*.fontSet { width: 140px; }
+.Search{position:relative;top:-5px}
+.hotsearch .HotKeywords ul li { display: inline-block; width: 23.7%; margin: 0 5px 5px 0; }
+.hotsearch .HotKeywords a {  padding: 10px 5px; height: 40px }
+.Search .navbar-form .input-group .form-control { width: 380px; }
+.Search .AdvSearch { width: 60px; }
+.Search .AdvSearch-e { width: 100px; }
+.sear_input .text-ipt{width:60%}
+.condition-search-blk .keyword-adj .btn-show-adv{width:120px}*/

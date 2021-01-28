@@ -1,0 +1,49 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*---------------------------------font size setting*/
+body { font-size: 1em; }
+.fontSet{width:145px}
+.fontSet #small{color:unset;background-color:unset}
+.fontSet #medium{color:unset;background-color:unset}
+.fontSet #large{color:#fff;background-color:#2abae1}
+.Search{position:relative;top:-10px}
+.Search .AdvSearch { width: 70px; }
+.Search .AdvSearch-e { width: 110px; }
+.hotsearch .HotKeywords ul li { display: inline-block; width: 31%; margin: 0 5px 5px 0; }
+.sear_input .text-ipt{width:60%}
+.condition-search-blk .keyword-adj .btn-show-adv{width:120px}
+
+@media (min-width:1200px) {
+.Search .navbar-form .input-group .form-control { width: 400px; }
+.hotsearch .HotKeywords ul li:nth-child(4n) { margin: 0 5px 5px 0 }
+}
+ @media (max-width:1199px) and (min-width: 992px) {
+.service ul li a { padding: 3px 10px 3px 75px; height: 60px; }
+.hotsearch .navbar-form .input-group .form-control { width: 285px; margin: 0 0 0 3px }
+.hotsearch .HotKeywords ul { margin: 0 5px 0 8px }
+.hotsearch .HotKeywords ul li { display: inline-block; width: 48.4%; margin: 0 5px 8px 0; }
+.hotsearch .HotKeywords ul li:nth-child(2n) { margin: 0 0 8px 0 }
+}
+@media (max-width:991px)and (min-width: 768px) {
+.hotsearch h2 { margin: 0 0 30px 0 }
+.hotsearch .navbar-form .input-group .form-control { width: 530px; margin: 0 0 0 5px }
+.hotsearch .HotKeywords ul { margin: 0 5px 0 12px }
+.hotsearch .HotKeywords ul li { display: inline-block; width: 48%; margin: 0 10px 8px 0; }
+.hotsearch .HotKeywords ul li:nth-child(2n) { margin: 0 0 8px 0 }
+}
+@media (min-width:611px) and (max-width:767px) {
+.condition-search-blk .keyword-adj .btn-show-adv{width:98%}
+}
+/*.fb ul li a{overflow:hidden;white-space:nowrap; text-overflow:ellipsis; padding:0px 0 17px; display: block }
+ @media (max-width:1199px) and (min-width: 992px){
+.fb ul { margin: 10px 25px 5px; padding: 0 }
+.fb ul li { border-bottom: 1px dotted #b0b5b5;  padding: 4px 0 0px 80px; }
+.fb ul li span { margin: 0 0 0 -70px; display: block; float: left; }
+}
+.business ul li a span { width: 120px;  }*/
+/*-*/
+/*.bulletin .options li>div.contents>ul>li { margin: 0 0 25px 0; padding:0 0 0 115px; }
+.bulletin .options li>div.contents>ul>li span {  margin:0 15px 0 -105px; }*/
+
+/*-*/
+/*.Errorwrap{  width:550px;  }*/
