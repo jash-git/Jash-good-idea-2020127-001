@@ -1,0 +1,24 @@
+這20個Windows10自帶的小功能，比付費軟件還好用！
+
+資料來源: https://mp.weixin.qq.com/s/2o0jJoprx0prYmCu_PfDWw
+
+01.管理系統自啟動軟體清單 ~ 
+02.快速打開任務欄應用 ~ Windows+1
+03.深色主題 ~ 
+04.剪貼簿(C/P功能) ~ Windows+V
+05.放大鏡 ~ Windwos++
+06.虛擬鍵盤 ~ Windows+R，打開運行，然後輸入osk
+07.分屏功能 ~ Windows+
+08.虛擬桌面 ~ Windows+Tab ☆★☆★☆★
+09.白板工具 ~ Windows+W
+10.截圖 ~ Windows+Shift+S
+11.步驟記錄器 ~ Windows+R（運行所有軟件，都可以用這個快捷鍵），輸入psr.exe回車，就啟動了
+12.裁剪視頻(影片編輯) ~ Windows+
+13.神奇選擇（摳圖） ~ Windows+
+14.快速切換輸入法 ~ Shift+Ctrl
+15.生僻字輸入 ~ 
+16.清除工作區 ~ 
+17.清除所有視窗 ~ Windows+D
+18.隱藏桌面圖標 ~ 
+19.切換工作視窗 ~ Alt+Tab
+20.電腦快速鎖定 ~ Windows+L
